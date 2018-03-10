@@ -1,3 +1,5 @@
 packages/
 WrestlingContract/bin/
 WrestlingContract/obj/
+WrestlingSite/obj/
+.vs/
