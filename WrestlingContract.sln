@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrestlingContract", "WrestlingContract\WrestlingContract.csproj", "{8C6B3072-10C8-4A9E-9D4E-13144294C71D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrestlingSite", "WrestlingSite\WrestlingSite.csproj", "{FE5BABBB-77DC-432B-B733-161B66A95DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C6B3072-10C8-4A9E-9D4E-13144294C71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6B3072-10C8-4A9E-9D4E-13144294C71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6B3072-10C8-4A9E-9D4E-13144294C71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5BABBB-77DC-432B-B733-161B66A95DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5BABBB-77DC-432B-B733-161B66A95DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5BABBB-77DC-432B-B733-161B66A95DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5BABBB-77DC-432B-B733-161B66A95DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
